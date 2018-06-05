@@ -15,7 +15,7 @@ This project is used in our candy sorting machine.
     Software:
         - Atmel Studio 7.0
         - Tool to save program on microchip flash memory by USBasp like e.g.
-        MkAvrCalculator
+        - MkAvrCalculator
 ## How to compile
 In order to run this program on microprocessor, it is needed to build it to hex file, and save into flash memory using applications like MkAvrCalculator, SinaProg.
 ## How to run
